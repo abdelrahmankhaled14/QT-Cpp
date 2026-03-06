@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Arya Stark",
+      "image": "assets/characters/arya.jpg",
+      "house": "House Stark",
+      "title": "No One",
+      "nickname": "The Girl with No Name",
+      "description": "Youngest daughter of House Stark who trains with the Faceless Men. Arya becomes a deadly assassin and eventually returns to Westeros to take revenge on her enemies."
+    },
+    {
+      "id": 2,
+      "name": "Jon Snow",
+      "image": "assets/characters/jon.jpg",
+      "house": "House Stark / Targaryen",
+      "title": "King in the North",
+      "nickname": "The White Wolf",
+      "description": "Raised as the illegitimate son of Ned Stark, Jon joins the Night’s Watch and rises to become Lord Commander. He later plays a key role in the battle against the White Walkers."
+    },
+    {
+      "id": 3,
+      "name": "Sansa Stark",
+      "image": "assets/characters/sansa.jpg",
+      "house": "House Stark",
+      "title": "Queen in the North",
+      "nickname": "The Little Bird",
+      "description": "Eldest Stark daughter who survives the dangerous politics of King’s Landing. Over time she becomes a strong and wise ruler of the North."
+    },
+    {
+      "id": 4,
+      "name": "Jaime Lannister",
+      "image": "assets/characters/jaime.jpg",
+      "house": "House Lannister",
+      "title": "Knight of the Kingsguard",
+      "nickname": "The Kingslayer",
+      "description": "A famous knight known for killing the Mad King. Although initially arrogant, Jaime develops a complex moral journey and seeks redemption."
+    },
+    {
+      "id": 5,
+      "name": "Cersei Lannister",
+      "image": "assets/characters/cersi.jpg",
+      "house": "House Lannister",
+      "title": "Queen of the Seven Kingdoms",
+      "nickname": "The Lioness",
+      "description": "Powerful and ruthless queen determined to maintain control of the Iron Throne. She will do anything to protect her children and power."
+    },
+    {
+      "id": 6,
+      "name": "Tyrion Lannister",
+      "image": "assets/characters/tyrion.jpg",
+      "house": "House Lannister",
+      "title": "Hand of the Queen",
+      "nickname": "The Imp",
+      "description": "Highly intelligent and witty member of House Lannister. Despite facing prejudice for his dwarfism, Tyrion becomes one of the most capable political minds in Westeros."
+    },
+    {
+      "id": 7,
+      "name": "Bran Stark",
+      "image": "assets/characters/bran.jpg",
+      "house": "House Stark",
+      "title": "The Three-Eyed Raven",
+      "nickname": "Bran the Broken",
+      "description": "After losing the ability to walk, Bran discovers his supernatural powers as the Three-Eyed Raven, allowing him to see the past, present, and future."
+    },
+    {
+      "id": 8,
+      "name": "Daenerys Targaryen",
+      "image": "assets/characters/daeneyrs.png",
+      "house": "House Targaryen",
+      "title": "Mother of Dragons",
+      "nickname": "The Unburnt",
+      "description": "Last known heir of the Targaryen dynasty. Daenerys rises from exile to become a powerful ruler commanding dragons and armies in her quest to reclaim the Iron Throne."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "dragons": [
+    {
+      "id": 1,
+      "name": "Drogon",
+      "image": "assets/dragons/drogon.jpg",
+      "era": "Game of Thrones",
+      "rider": "Daenerys Targaryen",
+      "nickname": "Named after Khal Drogo",
+      "description": "The largest and most aggressive of Daenerys's dragons. Drogon becomes her primary mount and plays a key role in the conquest of Westeros."
+    },
+    {
+      "id": 2,
+      "name": "Rhaegal",
+      "image": "assets/dragons/rhaegal.jpg",
+      "era": "Game of Thrones",
+      "rider": "Daenerys Targaryen, later Jon Snow",
+      "nickname": "Named after Rhaegar Targaryen",
+      "description": "A green-scaled dragon with bronze wings. Rhaegal is calmer than Drogon and forms a bond with Jon Snow."
+    },
+    {
+      "id": 3,
+      "name": "Viserion",
+      "image": "assets/dragons/viserion.jpg",
+      "era": "Game of Thrones",
+      "rider": "Daenerys Targaryen / Night King",
+      "nickname": "Named after Viserys Targaryen",
+      "description": "Cream and gold colored dragon. After being killed by the Night King he is resurrected as an undead ice dragon."
+    },
+    {
+      "id": 4,
+      "name": "Vhagar",
+      "image": "assets/dragons/vhagar.jpg",
+      "era": "House of the Dragon",
+      "rider": "Visenya Targaryen, later Aemond Targaryen",
+      "nickname": "Ancient Conquest Dragon",
+      "description": "One of the three dragons used during Aegon's conquest. Vhagar becomes one of the largest and most powerful dragons in history."
+    },
+    {
+      "id": 5,
+      "name": "Caraxes",
+      "image": "assets/dragons/caraxes.jpg",
+      "era": "House of the Dragon",
+      "rider": "Daemon Targaryen",
+      "nickname": "The Blood Wyrm",
+      "description": "A lean red dragon known for its aggressive nature and distinctive appearance. Caraxes is one of the fiercest dragons in battle."
+    },
+    {
+      "id": 6,
+      "name": "Syrax",
+      "image": "assets/dragons/syrax.jpg",
+      "era": "House of the Dragon",
+      "rider": "Rhaenyra Targaryen",
+      "nickname": "Named after a Valyrian goddess",
+      "description": "A golden she-dragon bonded to Princess Rhaenyra. Syrax symbolizes royal power and Targaryen legitimacy."
+    },
+    {
+      "id": 7,
+      "name": "Meleys",
+      "image": "assets/dragons/meleys.jpg",
+      "era": "House of the Dragon",
+      "rider": "Rhaenys Targaryen",
+      "nickname": "The Red Queen",
+      "description": "A swift red dragon famous for her speed. Meleys is one of the fastest dragons during the Dance of the Dragons."
+    },
+    {
+      "id": 8,
+      "name": "Balerion",
+      "image": "assets/dragons/balerion.jpg",
+      "era": "Aegon's Conquest",
+      "rider": "Aegon I Targaryen",
+      "nickname": "The Black Dread",
+      "description": "The greatest dragon in Westeros history. Balerion helped conquer the Seven Kingdoms and forged the Iron Throne."
+    }
+
+  ]
+}

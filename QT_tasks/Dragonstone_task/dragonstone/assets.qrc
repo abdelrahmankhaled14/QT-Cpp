@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/data/dragons.json</file>
+        <file>assets/characters/arya.jpg</file>
+        <file>assets/characters/bran.jpg</file>
+        <file>assets/characters/cersi.jpg</file>
+        <file>assets/characters/daeneyrs.png</file>
+        <file>assets/characters/jaime.jpg</file>
+        <file>assets/characters/jon.jpg</file>
+        <file>assets/characters/sansa.jpg</file>
+        <file>assets/characters/tyrion.jpg</file>
+        <file>assets/data/characters.json</file>
+        <file>assets/dragons/balerion.jpg</file>
+        <file>assets/dragons/caraxes.jpg</file>
+        <file>assets/dragons/drogon.jpg</file>
+        <file>assets/dragons/meleys.jpg</file>
+        <file>assets/dragons/rhaegal.jpg</file>
+        <file>assets/dragons/syrax.jpg</file>
+        <file>assets/dragons/vhagar.jpg</file>
+        <file>assets/dragons/viserion.jpg</file>
+        <file>assets/media/intro.mp4</file>
+    </qresource>
+</RCC>
